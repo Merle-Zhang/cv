@@ -65,11 +65,13 @@ education:
         -->
         
         [comment]: # (This actually is the most platform independent comment)
-        # lalala Describe your study here lorem ipsum dolor sit amet, consectetuer
-        # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        # sociis natoque penatibus et magnis dis parturient montes, nascetur
-        # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        # pretium quis, sem.
+        <!---
+        lalala Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+        -->
           - Currently have average grade at 86.2
           - Introduction to Computer Architecture
           - Imperative Programming – C
@@ -79,11 +81,13 @@ education:
       university: Tianjin TEDA No.1 High School 
       time: 2015 - 2018
       details: |
-        # Describe your study here lorem ipsum dolor sit amet, consectetuer
-        # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        # sociis natoque penatibus et magnis dis parturient montes, nascetur
-        # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        # pretium quis, sem.
+        <!---
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+        -->
           - Computer Science A - Java: 5/5
           - Macroeconomics: 5/5
           - Microeconomics: 5/5
