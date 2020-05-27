@@ -20,7 +20,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: # '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,47 +33,58 @@ sidebar:
         level: Native
 
     interests:
-      - item: Climbing
+      - item: Badminton
         link:
 
-      - item: Snowboarding
+      - item: Cycling
         link:
 
-      - item: Cooking
+      - item: Drums
+        link:
+        
+      - item: Archery
         link:
 
 career-profile:
-    title: Career Profile
+    title: Personal Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      An enthusiastic and self-motivated computer science student who enjoy 
+      learning new technology. Worked on projects about mobile development 
+      and web development. Have experience in leadership positions and took 
+      part in several competitions, e.g. CTF, Game Jam, Hackathon. Interned 
+      in 2020 Goldman Sachs Engineering Spring Week. Interested in full-stack 
+      development, cyber security, machine learning, computer vision, etc.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Computer Science
+      university: University of Bristol
+      time: 2019 - 2022
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        # Describe your study here lorem ipsum dolor sit amet, consectetuer
+        # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        # sociis natoque penatibus et magnis dis parturient montes, nascetur
+        # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        # pretium quis, sem.
+          - Currently have average grade at 86.2
+          - Introduction to Computer Architecture
+          - Imperative Programming – C
+          - Object-Oriented Programming – Java
+          - Databases and Cloud Concepts - SQL
+    - degree: Advanced Placement (equivalent of A-level)
+      university: Tianjin TEDA No.1 High School 
+      time: 2015 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        # Describe your study here lorem ipsum dolor sit amet, consectetuer
+        # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        # sociis natoque penatibus et magnis dis parturient montes, nascetur
+        # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        # pretium quis, sem.
+          - Computer Science A - Java: 5/5
+          - Macroeconomics: 5/5
+          - Microeconomics: 5/5
+          - Psychology: 5/5
+          - Statistics: 5/5
+          - Calculus BC: 5/5
+          - Physics C: Mechanics: 5/5
 experiences:
     - role: Lead Developer
       time: 2015 - Present
