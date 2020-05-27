@@ -96,10 +96,11 @@ education:
           - Calculus BC: 5/5
           - Physics C: Mechanics: 5/5
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Engineering Division Spring Week Internship
+      time: 2020 - 2020
+      company: Goldman Sachs, London
       details: |
+        <!---
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -109,30 +110,42 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        -->
+          - Researched into Cloud Computing and how Goldman Sachs utilizes 
+            AWS to improve and expand its business with digital platforms, 
+            e.g. Marcus, Marquee, ClearFactr, etc.
+          - Practiced technical interview questions with Java and Python.
+    - role: Secretary of Publicity & IT Department of the Chinese Society 
+      time: 2019 - Present
+      company: University of Bristol
       details: |
+        <!---
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        -->
+          - Managing the WeChat Official Account to post news and events 
+            of the society.
+          - Leading IT members to provide IT support for society’s 
+            operation, e.g. developed supporting app for society’s event, 
+            building official website and app of the society.
+    - role: Volunteer Teacher
+      time: 2019 - 2020
+      company: Robogals Bristol, University of Bristol
       details: |
+        <!---
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        -->
+          - Taught kids program Lego Robot with some sensors and helped 
+            with cardboard robotic arm.
+          - The group I led earned the highest score and won the best 
+            teamwork award.
 projects:
     title: Projects
     intro: >
