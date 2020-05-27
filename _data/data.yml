@@ -59,6 +59,12 @@ education:
       university: University of Bristol
       time: 2019 - 2022
       details: |
+        <!---
+        your comment goes here
+        and here
+        -->
+        
+        [comment]: # (This actually is the most platform independent comment)
         # Describe your study here lorem ipsum dolor sit amet, consectetuer
         # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         # sociis natoque penatibus et magnis dis parturient montes, nascetur
