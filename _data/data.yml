@@ -7,15 +7,15 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Merle Zhang
+    name: Xiaoyang (Merle) Zhang
     tagline: Computer Science Student at University of Bristol
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: nt19075@bristol.ac.uk
-    phone: 757 993 7942
+    email: xiaoyang.merle.zhang@gmail.com
+    phone: 0757 993 7942
     website: merle-zhang.github.io #do not add http://
-    linkedin: merle-zhang-2019
+    linkedin: merle-zhang
     github: merle-zhang
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -48,12 +48,13 @@ sidebar:
 career-profile:
     title: Personal Profile
     summary: |
-      An enthusiastic and self-motivated computer science student who enjoy 
-      learning new technology. Worked on projects about mobile development 
-      and web development. Have experience in leadership positions and took 
-      part in several competitions, e.g. CTF, Game Jam, Hackathon. Interned 
-      in 2020 Goldman Sachs Engineering Spring Week. Interested in full-stack 
-      development, cyber security, machine learning, computer vision, etc.
+      An enthusiastic and self-motivated computer science student who enjoy
+      learning new technology. Worked on projects about backend, mobile, web,
+      and data science. Have experience in leadership positions and took part
+      in several competitions, e.g. Game Jam, CTF, Hackathon, Datathon, etc.
+      Interned at Google SRE team, Inductosense Software Team and Goldman
+      Sachs Engineering Division. Interested in cloud computing, distributed
+      systems, machine learning, full-stack development, etc.
 education:
     - degree: BSc in Computer Science
       university: University of Bristol
@@ -72,11 +73,30 @@ education:
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
         -->
-          - Currently have average grade at 86.2
-          - Introduction to Computer Architecture
-          - Imperative Programming – C
-          - Object-Oriented Programming – Java
-          - Databases and Cloud Concepts - SQL
+          - Currently have average grade at 78.
+          - Relevant Courses: Software Engineering, Computer System, Computer Architecture, 
+            Data-Driven Computer Science, Database and Cloud, Security, Algorithms and Data Structure, 
+            Objected-Oriented/Functional/Imperative Programming, Linear Algebra, Probability and Statistics
+          - Teaching Assistant: Mathematics for Computer Science B, Algorithms I, Computer Architecture, Functional Programming
+    - degree: Reinforcement Learning - From Theory to Practice Summer School
+      university: The Alan Turing Institute
+      time: 2021 - 2021
+      details: |
+        <!---
+        your comment goes here
+        and here
+        -->
+        
+        [comment]: # (This actually is the most platform independent comment)
+        <!---
+        lalala Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+        -->
+          - Learnt Upper Confidence Bound, Markov Decision Process, Q-Learning, Monte Carlo Tree Search, Deep Q-Network, Policy Gradient, etc.
+          - Implemented Reinforcement Learning algorithms in Python with OpenAI Gym.
     - degree: Advanced Placement (equivalent of A-level)
       university: Tianjin TEDA No.1 High School 
       time: 2015 - 2018
@@ -96,6 +116,50 @@ education:
           - Calculus BC: 5/5
           - Physics C: Mechanics: 5/5
 experiences:
+    - role: Site Reliability Engineer Intern
+      time: June 2021 - Sept 2021
+      company: Google, London
+      details: |
+        <!---
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+        -->
+          - Developed, tested, and deployed an infrastructure to enable
+            the continuous validation platform, which were able to run
+            on an hourly basis, running the validation at presubmit stage.
+          - Implemented a validator for the continuous validation platform
+            that can detect mistakenly-placed static contents in the package
+            and found xxx failed validation out of xxx services.
+          - Wrote the whole implementation doc and unblocked many problems
+            by discussing with other colleagues and contacting the owner team.
+    - role: Full Stack Intern
+      time: June 2020 - Sept 2020
+      company: Inductosense, Bristol
+      details: |
+        <!---
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+        -->
+          - Constructed pages and components to detect devices and edit
+            schedule configuration for the Electron app with React and TypeScript.
+          - Implemented device and schedule-related API endpoints and
+            relevant tests used by the Electron app with C# and .NET.
+          - Developed data-format transform utility to solve the issue
+            with incompatible frontend and backend design.
     - role: Engineering Division Spring Week Internship
       time: 2020 - 2020
       company: Goldman Sachs, London
@@ -115,37 +179,37 @@ experiences:
             AWS to improve and expand its business with digital platforms, 
             e.g. Marcus, Marquee, ClearFactr, etc.
           - Practiced technical interview questions with Java and Python.
-    - role: Secretary of Publicity & IT Department of the Chinese Society 
-      time: 2019 - Present
-      company: University of Bristol
-      details: |
-        <!---
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-        -->
-          - Managing the WeChat Official Account to post news and events 
-            of the society.
-          - Leading IT members to provide IT support for society’s 
-            operation, e.g. developed supporting app for society’s event, 
-            building official website and app of the society.
-    - role: Volunteer Teacher
-      time: 2019 - 2020
-      company: Robogals Bristol, University of Bristol
-      details: |
-        <!---
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-        -->
-          - Taught kids program Lego Robot with some sensors and helped 
-            with cardboard robotic arm.
-          - The group I led earned the highest score and won the best 
-            teamwork award.
+#     - role: Secretary of Publicity & IT Department of the Chinese Society 
+#       time: 2019 - Present
+#       company: University of Bristol
+#       details: |
+#         <!---
+#         Describe your role here lorem ipsum dolor sit amet, consectetuer
+#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#         Cum sociis natoque penatibus et magnis dis parturient montes,
+#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#         pellentesque eu, pretium quis, sem.
+#         -->
+#           - Managing the WeChat Official Account to post news and events 
+#             of the society.
+#           - Leading IT members to provide IT support for society’s 
+#             operation, e.g. developed supporting app for society’s event, 
+#             building official website and app of the society.
+#     - role: Volunteer Teacher
+#       time: 2019 - 2020
+#       company: Robogals Bristol, University of Bristol
+#       details: |
+#         <!---
+#         Describe your role here lorem ipsum dolor sit amet, consectetuer
+#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#         Cum sociis natoque penatibus et magnis dis parturient montes,
+#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#         pellentesque eu, pretium quis, sem.
+#         -->
+#           - Taught kids program Lego Robot with some sensors and helped 
+#             with cardboard robotic arm.
+#           - The group I led earned the highest score and won the best 
+#             teamwork award.
 projects:
     title: Projects
     intro: >
@@ -155,6 +219,14 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
       -->
     assignments:
+      - title: Conway's Game of Life
+        link: # "#"
+        tagline: "Computer System Coursework: Concurrent and Distributed Programming using Golang."
+
+      - title: Latency Tracker
+        link: # "#"
+        tagline: "Improved the LfpLatency, a plugin extends the functionality of the Open Ephys GUI to support experiments in microneurography, and track constant latency evoked responses."
+
       - title: Google Hash Code 2020 
         link: "https://github.com/Merle-Zhang/HashCode2020"
         tagline: "1323rd place out of 10724 teams in the world. A Greedy solution with Java, with a heuristic scoring function that ranking libraries on the sum score of all books in the library divide by the signup time of the library."
@@ -163,17 +235,17 @@ projects:
         link: # "#"
         tagline: "AI playing boardgame Scotland Yard using Minimax with Alpha-beta pruning to construct a game tree to pick the best move."
 
-      - title: UWanted
-        link: "https://github.com/Code4Good-UWMadison/UWanted"
-        tagline: "A mobile app that connects the researchers whose projects need programming skills and student programmers who want to gain more programming experience. Using Flutter and Firebase."
+#       - title: UWanted
+#         link: "https://github.com/Code4Good-UWMadison/UWanted"
+#         tagline: "A mobile app that connects the researchers whose projects need programming skills and student programmers who want to gain more programming experience. Using Flutter and Firebase."
 
       - title: I am egg
         link: "https://github.com/Merle-Zhang/iamegg"
         tagline: "A Unity 3D project built in Bristol CSS Game Jam 2019. Player need to control an egg to complete missions."
 
-      - title: Sokoban 3D
-        link: "https://github.com/Merle-Zhang/Sokoban3D"
-        tagline: "3D version of classic game Sokoban built with Unity 3D."
+#       - title: Sokoban 3D
+#         link: "https://github.com/Merle-Zhang/Sokoban3D"
+#         tagline: "3D version of classic game Sokoban built with Unity 3D."
 
 # publications:
 #    title: Publications
@@ -204,18 +276,21 @@ skills:
 
     toolset:
       - name: Java
-        level: 60%
+        level: 75%
+
+      - name: Python
+        level: 70%
+
+      - name: Go
+        level: 65%
 
       - name: C/C++
-        level: 45%
+        level: 60%
 
       - name: Dart & Flutter
         level: 43%
 
-      - name: Python
-        level: 30%
-
-      - name: JavaScript
+      - name: JavaScript/TypeScript
         level: 30%
 
       - name: HTML, CSS, PHP, Node.js
