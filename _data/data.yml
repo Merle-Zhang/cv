@@ -136,7 +136,7 @@ experiences:
             on an hourly basis, running the validation at presubmit stage.
           - Implemented a validator for the continuous validation platform
             that can detect mistakenly-placed static contents in the package
-            and found xxx failed validation out of xxx services.
+            and found 35 failed validation out of 2100 services.
           - Wrote the whole implementation doc and unblocked many problems
             by discussing with other colleagues and contacting the owner team.
     - role: Full Stack Intern
