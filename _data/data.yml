@@ -131,7 +131,7 @@ experiences:
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
         -->
-          - Developed, tested, and deployed an infrastructure to enable
+          - Developed, tested, and deployed infrastructure to enable
             the continuous validation platform, which were able to run
             on an hourly basis, running the validation at presubmit stage.
           - Implemented a validator for the continuous validation platform
