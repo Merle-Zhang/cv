@@ -131,14 +131,9 @@ experiences:
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
         -->
-          - Developed, tested, and deployed infrastructure to enable
-            the continuous validation platform, which were able to run
-            on an hourly basis, running the validation at presubmit stage.
-          - Implemented a validator for the continuous validation platform
-            that can detect mistakenly-placed static contents in the package
-            and found 35 failed validation out of 2100 services.
-          - Wrote the whole implementation doc and unblocked many problems
-            by discussing with other colleagues and contacting the owner team.
+          <!---
+          - Interned in Ads SRE team.
+          -->
     - role: Full Stack Intern
       time: June 2020 - Sept 2020
       company: Inductosense, Bristol
