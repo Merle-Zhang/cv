@@ -119,6 +119,27 @@ experiences:
     - role: Site Reliability Engineer Intern
       time: June 2021 - Sept 2021
       company: Google, London
+      details: |
+        <!---
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+        -->
+          - Develop infrastructure to reuse dozens of checks about Google's
+            production services (previously run only in a separate environment,
+            with daily notifications), so that they are now integrated with 
+            Tricorder, the program analysis platform used for code reviews at Google.
+          - Work on this project entailed using the Go language, non trivial use of
+            Bazel/Starlark custom rules and macros, Protobufs and
+            several other internal Google systems.
+          - For definitions of Tricorder and other internal Google tooling:
+            [https://opensource.google/docs/glossary/](https://opensource.google/docs/glossary/)
     - role: Full Stack Intern
       time: June 2020 - Sept 2020
       company: Inductosense, Bristol
