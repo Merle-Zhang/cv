@@ -131,11 +131,11 @@ experiences:
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
         -->
-          - Develop infrastructure to reuse dozens of checks about Google's
+          - Developed infrastructure to reuse dozens of checks about Google's
             production services (previously run only in a separate environment,
             with daily notifications), so that they are now integrated with 
             Tricorder, the program analysis platform used for code reviews at Google.
-          - Work on this project entailed using the Go language, non trivial use of
+          - Worked on this project entailed using the Go language, non trivial use of
             Bazel/Starlark custom rules and macros, Protobufs and
             several other internal Google systems.
           - For definitions of Tricorder and other internal Google tooling:
