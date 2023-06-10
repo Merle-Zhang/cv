@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: xiaoyang.merle.zhang@gmail.com
-    phone: 0757 993 7942
+    phone: (+353) 87 758 8895
     website: merle-zhang.github.io #do not add http://
     linkedin: merle-zhang
     github: merle-zhang
@@ -48,15 +48,14 @@ sidebar:
 career-profile:
     title: Personal Profile
     summary: |
-      An enthusiastic and self-motivated computer science student who enjoy
-      learning new technology. Worked on projects about backend, mobile, web,
-      and data science. Have experience in leadership positions and took part
-      in several competitions, e.g. Game Jam, CTF, Hackathon, Datathon, etc.
-      Interned at Google SRE team, Inductosense Software Team and Goldman
-      Sachs Engineering Division. Interested in cloud computing, distributed
-      systems, machine learning, full-stack development, etc.
+      An enthusiastic and self-motivated computer science graduate who enjoy
+      learning new technology. Worked on projects about HPC, backend, mobile,
+      and web. Interned at Google GCloud SRE team, Google Ads SRE team,
+      Inductosense Software Team and Goldman Sachs Engineering Division.
+      Interested in GPU, Heterogeneous Computing, Distributed Systems, Cloud
+      Computing, Machine Learning, Full-stack Development, etc.
 education:
-    - degree: BSc in Computer Science
+    - degree: BSc in Computer Science (First Class Honours)
       university: University of Bristol
       time: 2019 - 2022
       details: |
@@ -73,52 +72,104 @@ education:
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
         -->
-          - Currently have average grade at 78.
-          - Relevant Courses: Software Engineering, Computer System, Computer Architecture, 
-            Data-Driven Computer Science, Database and Cloud, Security, Algorithms and Data Structure, 
-            Objected-Oriented/Functional/Imperative Programming, Linear Algebra, Probability and Statistics
-          - Teaching Assistant: Mathematics for Computer Science B, Algorithms I, Computer Architecture, Functional Programming
-    - degree: Reinforcement Learning - From Theory to Practice Summer School
-      university: The Alan Turing Institute
-      time: 2021 - 2021
-      details: |
-        <!---
-        your comment goes here
-        and here
-        -->
+          - Dissertation: Resource Management with Reinforcement Learning:
+            Implemented an OpenAI Gym environment simulating a multi-resources
+            cluster job scheduling problem. The RL agent trained in this
+            environment outperformed other scheduling heuristics including
+            shortest-job-first, packer, and Tetris.
+          - Relevant Courses: High Performance Computing, Machine Learning,
+            Computer Systems, Computer Architecture, Computer Graphics, Computer
+            Vision, Software Engineering, Database and Cloud, Data-Driven
+            Computer Science, Security, Algorithms and Data Structure.
+          - Teaching Assistant: Year 1 Programme Seminar, Computer Systems B,
+            Mathematics for Computer Science B, Algorithms I, Computer
+            Architecture, Functional Programming.
+    # - degree: Reinforcement Learning - From Theory to Practice Summer School
+    #   university: The Alan Turing Institute
+    #   time: 2021 - 2021
+    #   details: |
+    #     <!---
+    #     your comment goes here
+    #     and here
+    #     -->
         
-        [comment]: # (This actually is the most platform independent comment)
-        <!---
-        lalala Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-        -->
-          - Learnt Upper Confidence Bound, Markov Decision Process, Q-Learning, Monte Carlo Tree Search, Deep Q-Network, Policy Gradient, etc.
-          - Implemented Reinforcement Learning algorithms in Python with OpenAI Gym.
-    - degree: Advanced Placement (equivalent of A-level)
-      university: Tianjin TEDA No.1 High School 
-      time: 2015 - 2018
+    #     [comment]: # (This actually is the most platform independent comment)
+    #     <!---
+    #     lalala Describe your study here lorem ipsum dolor sit amet, consectetuer
+    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+    #     sociis natoque penatibus et magnis dis parturient montes, nascetur
+    #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+    #     pretium quis, sem.
+    #     -->
+    #       - Learnt Upper Confidence Bound, Markov Decision Process, Q-Learning, Monte Carlo Tree Search, Deep Q-Network, Policy Gradient, etc.
+    #       - Implemented Reinforcement Learning algorithms in Python with OpenAI Gym.
+    # - degree: Advanced Placement (equivalent of A-level)
+    #   university: Tianjin TEDA No.1 High School 
+    #   time: 2015 - 2018
+    #   details: |
+    #     <!---
+    #     Describe your study here lorem ipsum dolor sit amet, consectetuer
+    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+    #     sociis natoque penatibus et magnis dis parturient montes, nascetur
+    #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+    #     pretium quis, sem.
+    #     -->
+    #       - Computer Science A - Java: 5/5
+    #       - Macroeconomics: 5/5
+    #       - Microeconomics: 5/5
+    #       - Psychology: 5/5
+    #       - Statistics: 5/5
+    #       - Calculus BC: 5/5
+    #       - Physics C: Mechanics: 5/5    
+experiences:
+    - role: GPU Driver Software Engineer
+      time: January 2023 - Present
+      company: Qualcomm, Cork
       details: |
         <!---
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
         -->
-          - Computer Science A - Java: 5/5
-          - Macroeconomics: 5/5
-          - Microeconomics: 5/5
-          - Psychology: 5/5
-          - Statistics: 5/5
-          - Calculus BC: 5/5
-          - Physics C: Mechanics: 5/5
-experiences:
-    - role: Site Reliability Engineer Intern
+          - Developed GPU user-mode Drivers (Vulkan/DX12) with C++ that
+            connects high-level application API calls to low-level kernel-mode
+            driver function calls to support the pre-silicon stage R&D,
+            experiment, new feature development and verification.
+          - Enabled efficiency-boost SOTA features by debugging big benchmarks
+            and games from high-level API calls to low-level register
+            programming, command packet writing, memory layout, etc.
+          - Implemented Python-based tools that automate the analysis of logs
+            to identify opportunities for optimising GPU performance.
+    - role: Software Engineer, Site Reliability Engineer Intern
+      time: June 2022 - Sept 2022
+      company: Google, Dublin (Remote)
+      details: |
+        <!---
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+        -->
+          - Enhanced the infrastructure by providing safe and reliable global
+            progressive rollouts for critical services.
+          - Gathered metrics with BigQuery and visualised the rollout for GCP
+            services to illustrate the structure and analyse the risks.
+          - Designed and implemented a visualiser with Python that takes in
+            rollout information and outputs an SVG visualisation.
+    - role: Software Engineer, Site Reliability Engineer Intern
       time: June 2021 - Sept 2021
-      company: Google, London
+      company: Google, London (Remote)
       details: |
         <!---
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -133,16 +184,19 @@ experiences:
         -->
           - Developed infrastructure to reuse dozens of checks about Google's
             production services (previously run only in a separate environment,
-            with daily notifications), so that they are now integrated with 
-            Tricorder, the program analysis platform used for code reviews at Google.
-          - Worked on this project entailed using the Golang, non trivial use of
-            Bazel/Starlark custom rules and macros, Protobufs and
-            several other internal Google systems.
+            with daily notifications), so that they are now integrated with
+            Tricorder, the program analysis platform used for code reviews at
+            Google.
+          - Significantly enhanced development efficiency by accelerating the
+            feedback loop and detecting production failures prior to submitting
+            changes.
+          - Implemented this project using Golang, Bazel/Starlark custom rules
+            and macros, ProtoBufs, and several other internal Google systems.
           - For definitions of Tricorder and other internal Google tooling:
             [https://opensource.google/docs/glossary/](https://opensource.google/docs/glossary/)
     - role: Full Stack Intern
       time: June 2020 - Sept 2020
-      company: Inductosense, Bristol
+      company: Inductosense, Bristol (Remote)
       details: |
         <!---
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -156,14 +210,15 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
         -->
           - Constructed pages and components to detect devices and edit
-            schedule configuration for the Electron app with React and TypeScript.
-          - Implemented device and schedule-related API endpoints and
-            relevant tests used by the Electron app with C# and .NET.
-          - Developed data-format transform utility to solve the issue
-            with incompatible frontend and backend design.
+            schedule configuration for the Electron app with React and
+            TypeScript.
+          - Implemented device and schedule-related API endpoints and relevant
+            tests used by the Electron app with C# and .NET.
+          - Developed data-format transform utility to solve the issue with
+            incompatible frontend and backend design.
     - role: Engineering Division Spring Week Internship
       time: 2020 - 2020
-      company: Goldman Sachs, London
+      company: Goldman Sachs, London (Remote)
       details: |
         <!---
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -176,11 +231,11 @@ experiences:
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
         -->
-          - Researched into Cloud Computing and how Goldman Sachs utilizes 
-            AWS to improve and expand its business with digital platforms, 
+          - Researched into Cloud Computing and how Goldman Sachs utilizes
+            AWS to improve and expand its business with digital platforms,
             e.g. Marcus, Marquee, ClearFactr, etc.
-          - Practiced technical interview questions with Java and Python.
-#     - role: Secretary of Publicity & IT Department of the Chinese Society 
+          - Mocked technical interview questions with Java and Python.
+#     - role: Secretary of Publicity & IT Department of the Chinese Society
 #       time: 2019 - Present
 #       company: University of Bristol
 #       details: |
@@ -220,17 +275,29 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
       -->
     assignments:
+      - title: Deep Learning Compiler Exploration
+        link: # "https://github.com/Merle-Zhang/ai-compiler-explore"
+        tagline: "GEMM CUDA implementation, MLIR standalone example, notes for understanding OpenAI Triton codebase"
+
+      - title: [HPC] Parallel, Distributed, and GPU Optimisation for Lattice Boltzmann Method
+        link: # "#"
+        tagline: "Accelerated Lattice Boltzmann Method implementation with OpenMP, MPI, CUDA, and OpenCL."
+
+      - title: C++ 3D Rendering Engine with GLM and SDL2
+        link: # "#"
+        tagline: "Purely software implemented engine with features including texture, wireframe, rasterisation, hard shadow, ambient lighting, specular lighting, diffuse lighting, Gouraud shading, Phong Shading, and reflective materials."
+
       - title: Conway's Game of Life
         link: # "#"
-        tagline: "Computer System Coursework: Concurrent and Distributed Programming using Golang."
+        tagline: "Computer System Coursework: Concurrent and Distributed Programming using Golang and AWS EC2."
 
-      - title: Latency Tracker
+      - title: [C++] Latency Tracker
         link: # "#"
         tagline: "Improved the LfpLatency, a plugin extends the functionality of the Open Ephys GUI to support experiments in microneurography, and track constant latency evoked responses."
 
       - title: Google Hash Code 2020 
         link: "https://github.com/Merle-Zhang/HashCode2020"
-        tagline: "1323rd place out of 10724 teams in the world. A Greedy solution with Java, with a heuristic scoring function that ranking libraries on the sum score of all books in the library divide by the signup time of the library."
+        tagline: "1323rd place out of 10724 teams in the world."
 
       - title: The Scotland Yard Project
         link: # "#"
@@ -244,9 +311,9 @@ projects:
         link: "https://github.com/Merle-Zhang/iamegg"
         tagline: "A Unity 3D project built in Bristol CSS Game Jam 2019. Player need to control an egg to complete missions."
 
-#       - title: Sokoban 3D
-#         link: "https://github.com/Merle-Zhang/Sokoban3D"
-#         tagline: "3D version of classic game Sokoban built with Unity 3D."
+      - title: Sokoban 3D
+        link: "https://github.com/Merle-Zhang/Sokoban3D"
+        tagline: "3D version of classic game Sokoban built with Unity 3D."
 
 # publications:
 #    title: Publications
@@ -276,28 +343,34 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Java
+      - name: C/C++
         level: 75%
 
       - name: Python
-        level: 70%
+        level: 75%
+
+      - name: Java
+        level: 75%
 
       - name: Go
-        level: 65%
-
-      - name: C/C++
         level: 60%
+
+      - name: CUDA, OpenCL, MPI, OpenMP
+        level: 50%
+
+      - name: Linux
+        level: 50%
+
+      - name: DirectX 12
+        level: 40%
 
       - name: Dart & Flutter
         level: 43%
 
-      - name: JavaScript/TypeScript
-        level: 30%
-
-      - name: HTML, CSS, PHP, Node.js
+      - name: JS/TS, React, Node.js, HTML, CSS, PHP
         level: 25%
-        
-      - name: Firebase, MySQL, Docker
+
+      - name: Firebase, MySQL, Docker, AWS
         level: 25%
         
 footer: >
