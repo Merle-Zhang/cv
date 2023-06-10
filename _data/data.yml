@@ -279,7 +279,7 @@ projects:
         link: # "https://github.com/Merle-Zhang/ai-compiler-explore"
         tagline: "GEMM CUDA implementation, MLIR standalone example, notes for understanding OpenAI Triton codebase"
 
-      - title: [HPC] Parallel, Distributed, and GPU Optimisation for Lattice Boltzmann Method
+      - title: HPC: Parallel, Distributed, and GPU Optimisation for Lattice Boltzmann Method
         link: # "#"
         tagline: "Accelerated Lattice Boltzmann Method implementation with OpenMP, MPI, CUDA, and OpenCL."
 
@@ -291,7 +291,7 @@ projects:
         link: # "#"
         tagline: "Computer System Coursework: Concurrent and Distributed Programming using Golang and AWS EC2."
 
-      - title: [C++] Latency Tracker
+      - title: C++: Latency Tracker
         link: # "#"
         tagline: "Improved the LfpLatency, a plugin extends the functionality of the Open Ephys GUI to support experiments in microneurography, and track constant latency evoked responses."
 
