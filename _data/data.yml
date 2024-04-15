@@ -17,7 +17,6 @@ sidebar:
     website: merle-zhang.github.io #do not add http://
     linkedin: merle-zhang
     github: merle-zhang
-    github: MerleZhangIntel
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -139,11 +138,6 @@ experiences:
         -->
           - Develop the MLIR compiler for Intel NPU under OpenVINO framework.
           - [https://github.com/openvinotoolkit/npu_plugin/tree/develop/src/vpux_compiler](https://github.com/openvinotoolkit/npu_plugin/tree/develop/src/vpux_compiler)
-          # - Enabled efficiency-boost SOTA features by debugging big benchmarks
-          #   and games from high-level API calls to low-level register
-          #   programming, command packet writing, memory layout, etc.
-          # - Implemented Python-based tools that automate the analysis of logs
-          #   to identify opportunities for optimising GPU performance.
     - role: GPU Driver Software Engineer
       time: January 2023 - February 2024
       company: Qualcomm, Cork
@@ -159,6 +153,7 @@ experiences:
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
         -->
+          <!---
           # - Developed GPU user-mode Drivers (Vulkan/DX12) with C++ that
           #   connects high-level application API calls to low-level kernel-mode
           #   driver function calls to support the pre-silicon stage R&D,
@@ -168,6 +163,7 @@ experiences:
           #   programming, command packet writing, memory layout, etc.
           # - Implemented Python-based tools that automate the analysis of logs
           #   to identify opportunities for optimising GPU performance.
+          -->
           - Developed GPU user-mode drivers connect from high-level API calls to low-level kernel-mode driver function calls. Supporting the pre-silicon stage research, experiment, new feature development and verification.
           - Enabled efficiency-boost SOTA features by debugging big benchmarks and games from high-level API calls to low-level register programming, command packet writing, memory layout, etc.
           - Organised the bringup of DirectX Raytracing (DXR) HLK, debugged compiler failures through DXIL and shader assembly, and did other low-level debugging utilising knowledge about concurrency, architecture, compiler, and operating systems.
