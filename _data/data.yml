@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Xiaoyang (Merle) Zhang
-    tagline: GPU Driver Software Engineer @ Qualcomm Ireland
+    tagline: NPU MLIR Compiler Engineer @ Intel Leixlip
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -17,6 +17,7 @@ sidebar:
     website: merle-zhang.github.io #do not add http://
     linkedin: merle-zhang
     github: merle-zhang
+    github: MerleZhangIntel
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -48,11 +49,10 @@ sidebar:
 career-profile:
     title: Personal Profile
     summary: |
-      An enthusiastic and self-motivated computer science graduate who enjoy
-      learning new technology. Worked on projects about HPC, backend, mobile,
-      and web. Interned at Google GCloud SRE team, Google Ads SRE team,
+      Worked on projects about HPC, backend, mobile, and web. 
+      Interned at Google GCloud SRE team, Google Ads SRE team,
       Inductosense Software Team and Goldman Sachs Engineering Division.
-      Interested in GPU, Heterogeneous Computing, Distributed Systems, Cloud
+      Interested in MLIR, GPU, Heterogeneous Computing, Distributed Systems, Cloud
       Computing, Machine Learning, Full-stack Development, etc.
 education:
     - degree: BSc in Computer Science (First Class Honours)
@@ -122,8 +122,30 @@ education:
     #       - Calculus BC: 5/5
     #       - Physics C: Mechanics: 5/5    
 experiences:
+    - role: AI Frameworks Engineer
+      time: March 2024 - Present
+      company: Intel, Leixlip
+      details: |
+        <!---
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+        -->
+          - Develop the MLIR compiler for Intel NPU under OpenVINO framework.
+          - [https://github.com/openvinotoolkit/npu_plugin/tree/develop/src/vpux_compiler](https://github.com/openvinotoolkit/npu_plugin/tree/develop/src/vpux_compiler)
+          # - Enabled efficiency-boost SOTA features by debugging big benchmarks
+          #   and games from high-level API calls to low-level register
+          #   programming, command packet writing, memory layout, etc.
+          # - Implemented Python-based tools that automate the analysis of logs
+          #   to identify opportunities for optimising GPU performance.
     - role: GPU Driver Software Engineer
-      time: January 2023 - Present
+      time: January 2023 - February 2024
       company: Qualcomm, Cork
       details: |
         <!---
@@ -137,17 +159,21 @@ experiences:
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
         -->
-          - Developed GPU user-mode Drivers (Vulkan/DX12) with C++ that
-            connects high-level application API calls to low-level kernel-mode
-            driver function calls to support the pre-silicon stage R&D,
-            experiment, new feature development and verification.
-          - Enabled efficiency-boost SOTA features by debugging big benchmarks
-            and games from high-level API calls to low-level register
-            programming, command packet writing, memory layout, etc.
-          - Implemented Python-based tools that automate the analysis of logs
-            to identify opportunities for optimising GPU performance.
+          # - Developed GPU user-mode Drivers (Vulkan/DX12) with C++ that
+          #   connects high-level application API calls to low-level kernel-mode
+          #   driver function calls to support the pre-silicon stage R&D,
+          #   experiment, new feature development and verification.
+          # - Enabled efficiency-boost SOTA features by debugging big benchmarks
+          #   and games from high-level API calls to low-level register
+          #   programming, command packet writing, memory layout, etc.
+          # - Implemented Python-based tools that automate the analysis of logs
+          #   to identify opportunities for optimising GPU performance.
+          - Developed GPU user-mode drivers connect from high-level API calls to low-level kernel-mode driver function calls. Supporting the pre-silicon stage research, experiment, new feature development and verification.
+          - Enabled efficiency-boost SOTA features by debugging big benchmarks and games from high-level API calls to low-level register programming, command packet writing, memory layout, etc.
+          - Organised the bringup of DirectX Raytracing (DXR) HLK, debugged compiler failures through DXIL and shader assembly, and did other low-level debugging utilising knowledge about concurrency, architecture, compiler, and operating systems.
+          - Implemented tools that automate the analysis of logs to identify opportunities for optimising GPU performance.
     - role: Software Engineer, Site Reliability Engineer Intern
-      time: June 2022 - Sept 2022
+      time: June 2022 - September 2022
       company: Google, Dublin (Remote)
       details: |
         <!---
@@ -168,7 +194,7 @@ experiences:
           - Designed and implemented a visualiser with Python that takes in
             rollout information and outputs an SVG visualisation.
     - role: Software Engineer, Site Reliability Engineer Intern
-      time: June 2021 - Sept 2021
+      time: June 2021 - September 2021
       company: Google, London (Remote)
       details: |
         <!---
@@ -195,7 +221,7 @@ experiences:
           - For definitions of Tricorder and other internal Google tooling:
             [https://opensource.google/docs/glossary/](https://opensource.google/docs/glossary/)
     - role: Full Stack Intern
-      time: June 2020 - Sept 2020
+      time: June 2020 - September 2020
       company: Inductosense, Bristol (Remote)
       details: |
         <!---
